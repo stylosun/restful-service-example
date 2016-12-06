@@ -35,8 +35,8 @@ $ mvn test
 -------------------------------------------------------
  T E S T S
 -------------------------------------------------------
-Running org.example.jagdeep.restful.service.tests.ConversionTest
-Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.519 sec - in org.example.jagdeep.restful.service.tests.ConversionTest
+Running org.example.shivesh.restful.service.tests.ConversionTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.519 sec - in org.example.shivesh.restful.service.tests.ConversionTest
 
 Results :
 
@@ -49,7 +49,7 @@ Tests run: 12, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Finished at: 2016-11-22T11:17:00+05:30
 [INFO] Final Memory: 21M/275M
 [INFO] ------------------------------------------------------------------------
-jagdeepjain:restful-service-example jagdeepjain$
+shiveshjain:restful-service-example shiveshjain$
 ```
 
 ## TODO
