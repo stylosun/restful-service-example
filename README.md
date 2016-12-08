@@ -49,7 +49,7 @@ Tests run: 12, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Finished at: 2016-11-22T11:17:00+05:30
 [INFO] Final Memory: 21M/275M
 [INFO] ------------------------------------------------------------------------
-shiveshjain:restful-service-example shiveshjain$
+shiveshgupta:restful-service-example shiveshgupta$
 ```
 
 ## TODO
